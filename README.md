@@ -1,6 +1,7 @@
 ## Hey There
-I am Abhishek 
-I am an aspring Computer science student 
+I am Abhishek.
+I am an aspring Computer science student.
+
 
 <!--
 **Abhishek-AP-dev/Abhishek-AP-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
